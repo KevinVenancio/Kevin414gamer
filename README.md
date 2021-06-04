@@ -1,6 +1,6 @@
 👋 Olá, sou o @Kevin414gamer
-- 👀 Estou interessado em ... HTML, CSS And JavaScript
-- 🌱 Atualmente aprendendo ... HTML
+- 👀 Estou interessado em ... HTML, CSS And JavaScript e Vue.Js
+- 🌱 Atualmente aprendendo ... CSS e JavaScript
 - 💞️ Procurando colaborar com ... Projetos que normalmente iniciantes conseguem aprender bastante
 - 📫 Como me achar ...
 
