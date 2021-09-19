@@ -1,9 +1,9 @@
 # Olá 👋
 
-Meu nome é Kevin Venâncio, sou Brasileiro e atualmente tenho 20 anos. Estou estudando HTML, CSS e JavaScript no momento (já estou no CSS e JS) e o framework que eu pretendo estudar é o Vue.js, mas caso surja a oportunidade/necessidade de estudar outro... estou aqui😅
+Meu nome é Kevin Venâncio, sou Brasileiro e atualmente tenho 20 anos. Sou Desenvolvedor Front-end (HTML, CSS e JavaScript) e o framework que eu pretendo estudar é o Vue.js, mas caso surja a oportunidade/necessidade de estudar outro... estou aqui😅
 
 Sou auto-ditata, então tudo o que eu aprendi até hoje foi correndo atrás de ebooks, videos, cursos... 
-Adoro a área de design, composição de elementos, ver o sentimento dentro da arte sendo feita e ter o prazer de ver aquilo finalizado (fico muito feliz quando vejo que o css deu certo haahha).
+Adoro a área de design, composição de elementos, ver o sentimento dentro da arte sendo construida e ter o prazer de ver aquilo finalizado (fico muito feliz quando vejo que o css deu certo haahha).
 
 ### 👨🏻‍💻"O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo."🎯
 -Thomas Fuller
